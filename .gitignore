@@ -1,0 +1,55 @@
+# ----------------------
+# IntelliJ IDEA
+# ----------------------
+.idea/
+*.iml
+*.iws
+out/
+*.log
+
+# ----------------------
+# Maven
+# ----------------------
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ----------------------
+# Gradle (nếu dùng)
+# ----------------------
+.gradle/
+build/
+
+# ----------------------
+# Tomcat & server configs
+# ----------------------
+*.war
+*.ear
+*.jar
+*.class
+
+# IntelliJ Run configs
+*.ipr
+*.iws
+*.idea/
+
+# ----------------------
+# OS-generated
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Optional: Ignore local env/IDE settings
+# ----------------------
+*.env
+*.local
+*.swp
